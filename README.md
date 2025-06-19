@@ -31,18 +31,18 @@ A simple and lightweight Android application that allows users to write, save, a
 
 ### How to Run the App
 
-1. Clone the Repository  
+1. *Clone the Repository*  
    ```bash
    git clone https://github.com/your-username/notes-app.git
    cd notes-app
 
-2. Open in Android Studio
+2. *Open in Android Studio :*
       File → Open → Select the project root folder
 
-3. Build the App
+3. *Build the App :*
      ./gradlew build
 
-4. Run the App
+4. *Run the App :*
       Choose an emulator or connected device -> Click  Run in Android Studio
 
 ## Tech Stack
