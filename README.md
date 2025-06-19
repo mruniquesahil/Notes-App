@@ -43,7 +43,7 @@ A simple and lightweight Android application that allows users to write, save, a
      ./gradlew build
 
 4. *Run the App :*
-      Choose an emulator or connected device -> Click  Run in Android Studio
+      Choose an emulator or connected device → Click  Run in Android Studio
 
 ## Tech Stack
      -Kotlin
